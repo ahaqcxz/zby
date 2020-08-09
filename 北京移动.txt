@@ -63,7 +63,7 @@ NEWTV频道
 动作电影,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
 超级综艺,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 精品体育,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8
-动画频道,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226289/1.m3u8
+动画剧场,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226289/1.m3u8
 精品体育,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
 卫视频道
 安徽卫视,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225873/1.m3u8

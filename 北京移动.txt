@@ -38,14 +38,14 @@ CETV4,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/322122636
 NEWTV频道
 山东教育,http://39.134.134.57/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
 黑莓动画,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
-黑莓电竞,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
+黑莓电竞,http://39.134.134.30/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
 黑莓电影,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
-超级电影,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+超级电影,http://39.134.135.13/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 超级综艺,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 超级剧集,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
-中国功夫,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
-金牌综艺,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
-农业致富,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+中国功夫,http://211.136.65.136/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+金牌综艺,http://211.136.65.139/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
+农业致富,http://39.134.134.25/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 潮妈辣婆,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
 炫舞未来,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
 明星大片,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
@@ -65,6 +65,7 @@ NEWTV频道
 精品体育,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8
 动画剧场,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226289/1.m3u8
 精品体育,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
+超级体育,http://39.134.135.25/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/3.m3u8
 卫视频道
 安徽卫视,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225873/1.m3u8
 广东卫视,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8

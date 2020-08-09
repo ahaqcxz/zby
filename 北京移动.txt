@@ -33,10 +33,10 @@ CETV4,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/322122636
 卡酷少儿,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
 优漫卡通,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
 哈哈炫动,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
-哈哈炫动,http://yw111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
+哈哈炫动,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
 
 NEWTV频道
-山东教育,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
+山东教育,http://39.134.134.57/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
 黑莓动画,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 黑莓电竞,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
 黑莓电影,http://111.13.111.244/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8

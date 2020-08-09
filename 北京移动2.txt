@@ -23,7 +23,7 @@ CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
 CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8
 CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-CGTN纪录片,http://bjyd.jilu8.cn/PLTV/88888888/224/3221225866/3.m3u8
+CGTN纪录,http://bjyd.jilu8.cn/PLTV/88888888/224/3221225866/3.m3u8
 CGTN,http://bjyd.jilu8.cn/PLTV/88888888/224/3221225867/3.m3u8
 CETV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 CETV4,http://bjyd.jilu8.cn/PLTV/88888888/224/3221226362/3.m3u8

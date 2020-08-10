@@ -27,6 +27,7 @@ CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CGTN,http://bjyd.jilu8.cn/PLTV/88888888/224/3221225867/3.m3u8
 CG纪录,http://bjyd.jilu8.cn/PLTV/88888888/224/3221225866/3.m3u8
 CETV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
+CETV3,rtmp://58.200.131.2:1935/livetv/cetv3
 CETV4,http://bjyd.jilu8.cn/PLTV/88888888/224/3221226362/3.m3u8
 NEWTV频道
 金鹰卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
@@ -109,10 +110,14 @@ HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 无线新闻,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1597053563~exp=1597139963~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4ae6928f67b390b1c2ce883702933d9dd0f56240c86efcf1eb942bec970db172
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
 CH电影,rtmp://58.200.131.2:1935/livetv/chchd
 CH家庭,rtmp://58.200.131.2:1935/livetv/chctv
 CH动作,rtmp://58.200.131.2:1935/livetv/chcatv
-凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
+Sports,rtmp://58.200.131.2:1935/livetv/starsports
+Chan-V,rtmp://58.200.131.2:1935/livetv/channelv
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8

@@ -106,8 +106,13 @@ NEWTV频道
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 无线新闻,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1597053563~exp=1597139963~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4ae6928f67b390b1c2ce883702933d9dd0f56240c86efcf1eb942bec970db172
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+CH电影,rtmp://58.200.131.2:1935/livetv/chchd
+CH家庭,rtmp://58.200.131.2:1935/livetv/chctv
+CH动作,rtmp://58.200.131.2:1935/livetv/chcatv
+凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
 東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8

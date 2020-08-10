@@ -101,10 +101,10 @@ NEWTV频道
 广西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
 甘肃卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
 有線新聞,https://liveima.utvlive.top/livehls/MOB-SCC/02.m3u8
+无线新闻,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1597053563~exp=1597139963~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4ae6928f67b390b1c2ce883702933d9dd0f56240c86efcf1eb942bec970db172
 凤凰资讯,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 凤凰中文,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
-无线新闻,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1597053563~exp=1597139963~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4ae6928f67b390b1c2ce883702933d9dd0f56240c86efcf1eb942bec970db172
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8

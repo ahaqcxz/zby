@@ -3,6 +3,9 @@ CCTV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8
 CCTV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 CCTV3,http://heb.jilu8.cn/PLTV/88888888/224/3221225785/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 CCTV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8
 CCTV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 CCTV5,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8
@@ -12,6 +15,7 @@ CCTV6,http://heb.jilu8.cn/PLTV/88888888/224/3221225786/index.m3u8
 CCTV7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 CCTV7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8
 CCTV8,http://heb.jilu8.cn/PLTV/88888888/224/3221225787/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
 CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8
 CCTV10,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
@@ -92,7 +96,9 @@ NEWTV频道
 天津卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 东方卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 湖南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 江苏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225644/index.m3u8
 山东卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
 湖北卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 安徽卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8

@@ -113,9 +113,10 @@ HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 信吉电视,http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
-唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 华纳电视,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 福克动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
 

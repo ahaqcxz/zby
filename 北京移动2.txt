@@ -2,7 +2,6 @@
 CCTV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8
 CCTV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV3,http://heb.jilu8.cn/PLTV/88888888/224/3221225785/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
@@ -11,10 +10,9 @@ CCTV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 CCTV5,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8
 CCTV5+,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225938/1.m3u8
 CCTV5+,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-CCTV6,http://heb.jilu8.cn/PLTV/88888888/224/3221225786/index.m3u8
+CCTV6,http://183.207.255.190/live/program/live/cctv6/1300000/mnf.m3u8
 CCTV7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 CCTV7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8
-CCTV8,http://heb.jilu8.cn/PLTV/88888888/224/3221225787/index.m3u8
 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
 CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8
@@ -28,7 +26,7 @@ CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8
 CCTV16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-CGTN,http://bjyd.jilu8.cn/PLTV/88888888/224/3221225867/3.m3u8
+CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CG纪录,http://bjyd.jilu8.cn/PLTV/88888888/224/3221225866/3.m3u8
 CETV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 CETV3,rtmp://58.200.131.2:1935/livetv/cetv3
